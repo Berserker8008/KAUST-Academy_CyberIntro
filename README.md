@@ -9,6 +9,7 @@
 - [Daniel Alsadiq](https://www.linkedin.com/in/daniel-alsadiq/)
 - [Nouf Alamoudi](https://www.linkedin.com/in/nouf-alamoudi)
 - [Lena Alqahtani](https://www.linkedin.com/in/lena-m-alqahtan)
+- [Abdulrahman Al Mutairi](https://www.linkedin.com/in/abdulrahman-al-mutairi-b9236426b)
 
 ## Schedule  
 > The stage will cover Information Security fundamentals and fields, including but not limited to:
