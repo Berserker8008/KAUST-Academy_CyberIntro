@@ -10,7 +10,8 @@
 - [Nouf Alamoudi](https://www.linkedin.com/in/nouf-alamoudi)
 - [Lena Alqahtani](https://www.linkedin.com/in/lena-m-alqahtan)
 
-## Schedule  > The stage will cover Information Security fundamentals and fields, including but not limited to:
+## Schedule  
+> The stage will cover Information Security fundamentals and fields, including but not limited to:
 
 - Social Engineering
 - Web Security   
