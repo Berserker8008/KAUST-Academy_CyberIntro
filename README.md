@@ -1,4 +1,4 @@
-# KAUST Academy Introduction to Cybersecurity Programn 2025
+# KAUST Academy Introduction to Cybersecurity Program 2025
 
 ## Instructor
 
