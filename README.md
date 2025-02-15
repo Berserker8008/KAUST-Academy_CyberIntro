@@ -7,6 +7,9 @@
 ## Teaching Assistants
 
 - [Daniel Alsadiq](https://www.linkedin.com/in/daniel-alsadiq/)
+- [Nouf Alamoudi](https://www.linkedin.com/in/nouf-alamoudi)
+- [Lena Alqahtani](https://www.linkedin.com/in/lena-m-alqahtan)
+
 
 
 ## Tentative (may change) 
